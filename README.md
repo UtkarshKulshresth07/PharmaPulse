@@ -14,3 +14,5 @@ A comprehensive Manager Dashboard for the Pharmaceutical Industry. This is a sin
 - Vanilla JavaScript
 - Chart.js (for data visualization)
 - LocalStorage (for saving data in the browser)
+
+- Click here to see app (https://pharma-pulse-07.netlify.app/)
